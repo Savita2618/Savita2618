@@ -40,7 +40,7 @@ Network & Cloud engineer in alternance · Hybrid infrastructure & DevSecOps enth
 
 ## Experience
 
-**Backend & Infrastructure Developer, Alternance - CANTATA Communication Solutions** *(2024 – Sept 2026)*
+**Backend & Infrastructure Developer, Alternance - CANTATA Communication Solutions** *(2024 – Sept 2025)*
 Mobile app (React Native/Node.js) · IoT integration (Philips Hue) · RESTful API · Home Assistant automation · Android testing
 
 **Technical Expertise Internship - RATP** *(Apr – Jun 2023)*
